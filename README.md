@@ -31,11 +31,11 @@ Description:
 
 ## Green
 
-Vulnerability #1: __________________
+Vulnerability #1: Cross-Site Scripting
 
 Description:
 
-<img src="green-vuln1.gif">
+<img src="https://github.com/SLyubar/codepath_Unit9/blob/main/green-vuln1.gif">
 
 Vulnerability #2: __________________
 
